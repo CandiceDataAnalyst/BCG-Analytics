@@ -1,5 +1,5 @@
 # BCG Data Science & Analytics
-
+![Image]
 ## Welcome to the Data Science & Analytics
 We recognise that these tasks are challenging and that there are undoubtedly phrases and terminology
 you may not have heard before – don’t worry! We have tried to make this experience as true to life as
