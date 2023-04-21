@@ -18,7 +18,8 @@ different types of business challenges. The skills you will use and develop toda
 and data scientist toolkits, and will be applicable to many different types of cases.
 We hope you will enjoy your virtual experience and get a glimpse into the exciting life of a Data Scientist
 at BCG GAMMA!
-This project contain four takes:
+
+This project contain four sections:
 ## 1: Business Understanding & Hypothesis Framing
 Understanding the business context and problem statement.
 ### Here is the background information on your task
