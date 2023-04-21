@@ -1,6 +1,6 @@
 # BCG-Analytics
 
-#### Welcome to the Data Science & Analytics
+## Welcome to the Data Science & Analytics
 We recognise that these tasks are challenging and that there are undoubtedly phrases and terminology
 you may not have heard before – don’t worry! We have tried to make this experience as true to life as
 possible and therefore our ask is that you attempt to seek out independent sources of information and do
