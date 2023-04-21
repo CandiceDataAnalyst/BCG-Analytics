@@ -1,4 +1,4 @@
-# BCG-Analytics
+# BCG Data Science & Analytics
 
 ## Welcome to the Data Science & Analytics
 We recognise that these tasks are challenging and that there are undoubtedly phrases and terminology
