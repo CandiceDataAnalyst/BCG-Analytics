@@ -1,5 +1,6 @@
 # BCG Data Science & Analytics
-![Image]
+![Image]![Screenshot 2023-04-20 at 20 17 50](https://user-images.githubusercontent.com/127648422/233533732-2f086e19-a66c-4aa7-9a3b-1c79c3a72b76.png)
+
 ## Welcome to the Data Science & Analytics
 We recognise that these tasks are challenging and that there are undoubtedly phrases and terminology
 you may not have heard before – don’t worry! We have tried to make this experience as true to life as
